@@ -85,6 +85,7 @@ HR-Analytics-Dashboard/
 │   └── dashboard_preview.png
 │
 └── README.md
+```text
 
 ## Key Insights
 
