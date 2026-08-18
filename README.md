@@ -82,17 +82,15 @@ HR-Analytics-Dashboard/
 │   └── HR_Analytics_Dashboard.xlsx
 │
 ├── images/
-│   └── dashboard_preview.png
 │
 └── README.md
-```text
-
+ ```
 ## Key Insights
 
-- The dataset contains 2,000 employee records.
-- The overall attrition rate is 19.50%.
-- The average employee salary is $69,554.53.
-- The average total compensation is $87,230.80.
+The dataset contains 2,000 employee records.
+The overall attrition rate is 19.50%.
+The average employee salary is $69,554.53.
+The average total compensation is $87,230.80.
 
 ## Author
 
