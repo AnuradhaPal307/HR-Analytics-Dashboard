@@ -75,13 +75,11 @@ The Excel dashboard includes:
 ```text
 HR-Analytics-Dashboard/
 │
-├── data/
-│   └── HR_Raw_Data.xlsx
+├── HR_Raw_Data.xlsx
 │
-├── dashboard/
-│   └── HR_Analytics_Dashboard.xlsx
+├── HR_Analytics_Dashboard.xlsx
 │
-├── images/
+├── dashboard_preview.png
 │
 └── README.md
  ```
